@@ -1,0 +1,3 @@
+﻿  Archivo.c
+c:\users\mau_l\source\repos\cle estuding\cle estuding\archivo.c(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CLE estuding.vcxproj -> C:\Users\mau_l\source\repos\CLE estuding\Debug\CLE estuding.exe
