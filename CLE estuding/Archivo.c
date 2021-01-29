@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/***********************************************
+Creador: Mauricio lopez
+Fecha: 10/10/2020
+Descripcion:
+programa usado solo para repaso y prectica del 
+uso de la libreria stdio.h y stdlib
+***********************************************/
 int main() {
 	int i = 0, j = 0, k = 0, l = 0;
 
